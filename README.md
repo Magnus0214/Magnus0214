@@ -1,4 +1,6 @@
 ### Hi there 👋
+Magnus here! I'm currently pursuing master degree in precision health and medicine. 
+Long story short, I'm processing multi-omics data with the help of AI&ML, so Python and R is my primary focus
 
 <!--
 **Magnus0214/Magnus0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
